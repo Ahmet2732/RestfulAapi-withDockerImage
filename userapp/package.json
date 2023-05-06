@@ -1,0 +1,17 @@
+{
+  "name": "usersapi",
+  "version": "1.0.0",
+  "description": "userapi curd operations",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docker": "^0.2.14",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
